@@ -1,11 +1,8 @@
 # 💫 Hi 👋, I'm Ehtisham Aflak
 **A passionate Software Engineer || PAKISTAN**
-Email Me 👉 ✉️ **ehtishamaflaq12341234@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Flask,NumPy,Pandas
-- 📫 **How to reach me:** ehtishamaflaq12341234@gmail.com
-- ⚡ **Fun fact:** I Love Coding and Coding Love Me
+Email Me ✉️ **ehtishamaflaq12341234@gmail.com** For Collaboration/Project or Anything Else. 😊
+-  **How to reach me:** ehtishamaflaq12341234@gmail.com
+-  **Fun fact:** I Love Coding and Coding Love Me
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ehtisham Aflaq) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ehtisham Aflak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ehtishamaflaq12341234@gmail.com) 
