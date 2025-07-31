@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ehtisham Aflak
-**A passionate Software Engineer || PAKISTAN**
+**A passionate Software Engineer || Pakistan**
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamaflaq3&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamaflaq3" /> </p>
