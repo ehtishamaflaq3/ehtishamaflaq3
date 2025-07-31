@@ -1,6 +1,9 @@
 # 💫 Hi 👋, I'm Ehtisham Aflak
 **A passionate Software Engineer || PAKISTAN**
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehtishamaflaq3&label=Profile%20views&color=0e75b6&style=flat" alt="ehtishamaflaq3" /> </p>
+
 Email Me ✉️ **ehtishamaflaq12341234@gmail.com** For Collaboration/Project or Anything Else. 😊
 -  **How to reach me:** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ehtishamaflaq12341234@gmail.com) 
 -  **Fun fact:** I Love Coding
@@ -14,11 +17,11 @@ Email Me ✉️ **ehtishamaflaq12341234@gmail.com** For Collaboration/Project or
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ehtishamaflaq3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <img align="right" alt="Coding" height=250 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
-
-
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ehtishamaflaq3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
