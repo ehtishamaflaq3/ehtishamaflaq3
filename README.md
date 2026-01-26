@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Ehtisham Aflak
+# Hi 👋, I'm Ehtisham Aflak
 **A passionate Software Engineer || Pakistan**
 <br>
 
