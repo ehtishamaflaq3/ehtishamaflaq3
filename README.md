@@ -15,7 +15,7 @@ For Collaboration/Project or Anything Else. 😊
 </div>
 
 
-<img align="right" alt="Coding" height=250 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img align="left" alt="Coding" height=250 width=300 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
