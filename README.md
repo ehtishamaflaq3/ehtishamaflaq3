@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/882fe49c-5ace-4182-b84c-b7dab95e802f"
+    alt="Ehtisham Aflak Profile Banner"
+    width="100%"
+  />
+</p>
 
 <h1 align="center">Hi , I'm Ehtisham Aflak</h1>
 
