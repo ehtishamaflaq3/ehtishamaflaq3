@@ -111,6 +111,18 @@ Programming Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" />
 </a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="45" height="45" alt="SQL" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="45" height="45" alt="C#" />
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.java.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" />
 </a>&nbsp;&nbsp;&nbsp;
