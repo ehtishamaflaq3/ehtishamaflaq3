@@ -75,10 +75,6 @@ Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
 </a>
 
-<a href="https://vite.dev/">
-  <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" height="45" alt="Vite" />
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://redux.js.org/">
   <img src="https://cdn.simpleicons.org/redux/764ABC" width="45" height="45" alt="Redux" />
 </a>&nbsp;&nbsp;&nbsp;
@@ -111,10 +107,6 @@ Backend & Databases
   <img src="https://cdn.simpleicons.org/lucide/FFFFFF" width="45" height="45" alt="Lucide" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://imagekit.io/">
-  <img src="https://api.iconify.design/simple-icons:imagekit.svg?color=%237B61FF" width="45" height="45" alt="ImageKit" />
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://motion.dev/">
   <img src="https://cdn.simpleicons.org/framer/0055FF" width="45" height="45" alt="Framer Motion" />
 </a>&nbsp;&nbsp;&nbsp;
@@ -129,6 +121,10 @@ Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" height="45" alt="JavaScript" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.typescriptlang.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/">
@@ -175,10 +171,6 @@ Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
 </a>
 
-<a href="https://www.linux.org/">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="Linux" />
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://about.gitlab.com/">
   <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45" height="45" alt="GitLab" />
 </a>&nbsp;&nbsp;&nbsp;
@@ -210,6 +202,14 @@ Design
 <a href="https://www.adobe.com/products/illustrator.html">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="45" height="45" alt="Adobe Illustrator" />
 </a>
+
+<a href="https://www.adobe.com/products/xd.html">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="45" height="45" alt="Adobe XD" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.sketch.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg" width="45" height="45" alt="Sketch" />
+</a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
