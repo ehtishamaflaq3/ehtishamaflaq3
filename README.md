@@ -112,7 +112,7 @@ Backend & Databases
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://imagekit.io/">
-  <img src="https://cdn.simpleicons.org/imagekit/7B61FF" width="45" height="45" alt="ImageKit" />
+  <img src="https://ik.imagekit.io/ikmedia/website-assets/logo/logo.svg" width="45" height="45" alt="ImageKit" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://motion.dev/">
@@ -188,7 +188,7 @@ Development
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://code.visualstudio.com/">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45" height="45" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <br><br>
