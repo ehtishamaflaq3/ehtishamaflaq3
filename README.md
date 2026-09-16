@@ -120,7 +120,7 @@ Development
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.postman.com/">
