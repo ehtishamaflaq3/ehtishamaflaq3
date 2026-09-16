@@ -112,7 +112,7 @@ Backend & Databases
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://imagekit.io/">
-  <img src="https://ik.imagekit.io/ikmedia/website-assets/logo/logo.svg" width="45" height="45" alt="ImageKit" />
+  <img src="https://cdn.simpleicons.org/imagekit" width="45" height="45" alt="ImageKit" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://motion.dev/">
@@ -200,7 +200,7 @@ Design
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.canva.com/">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45" height="45" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45" height="45" alt="Canva" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.adobe.com/products/photoshop.html">
