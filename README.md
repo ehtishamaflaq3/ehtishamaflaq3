@@ -112,7 +112,7 @@ Backend & Databases
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://imagekit.io/">
-  <img src="https://cdn.simpleicons.org/imagekit" width="45" height="45" alt="ImageKit" />
+  <img src="https://api.iconify.design/simple-icons:imagekit.svg?color=%237B61FF" width="45" height="45" alt="ImageKit" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://motion.dev/">
