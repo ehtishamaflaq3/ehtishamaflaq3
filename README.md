@@ -147,8 +147,9 @@ Development
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="45" height="45" alt="REST APIs" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/lightning/FFD43B"
-     width="45" height="45" alt="Lightning" />&nbsp;&nbsp;&nbsp;
+<a href="https://thunderclient.com/">
+  <img src="https://cdn.simpleicons.org/lightning/FFD43B" width="45" height="45" alt="Thunder Client" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.postman.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
