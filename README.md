@@ -83,6 +83,10 @@ Frontend
   <img src="https://cdn.simpleicons.org/redux/764ABC" width="45" height="45" alt="Redux" />
 </a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://ui.shadcn.com/">
+  <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="45" height="45" alt="shadcn/ui" />
+</a>&nbsp;&nbsp;&nbsp;
+
 <br><br>
 
 Backend & Databases
@@ -101,6 +105,22 @@ Backend & Databases
 
 <a href="https://www.mysql.com/">
   <img src="https://cdn.simpleicons.org/mysql/22D3EE" width="45" height="45" alt="MySQL" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://motion.dev/">
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="45" height="45" alt="Framer Motion" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://lucide.dev/">
+  <img src="https://cdn.simpleicons.org/lucide/FFFFFF" width="45" height="45" alt="Lucide" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://imagekit.io/">
+  <img src="https://cdn.simpleicons.org/imagekit/7B61FF" width="45" height="45" alt="ImageKit" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://motion.dev/">
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="45" height="45" alt="Framer Motion" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <br><br>
@@ -147,6 +167,10 @@ Development
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="45" height="45" alt="REST APIs" />
 </a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.linux.org/">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="Linux" />
+</a>&nbsp;&nbsp;&nbsp;
+
 <a href="https://thunderclient.com/">
   <img src="https://cdn.simpleicons.org/lightning/FFD43B" width="45" height="45" alt="Thunder Client" />
 </a>&nbsp;&nbsp;&nbsp;
@@ -155,12 +179,32 @@ Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
 </a>
 
+<a href="https://www.linux.org/">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="Linux" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://about.gitlab.com/">
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="45" height="45" alt="GitLab" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.npmjs.com/">
+  <img src="https://cdn.simpleicons.org/npm/CB3837" width="45" height="45" alt="npm" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="45" height="45" alt="VS Code" />
+</a>&nbsp;&nbsp;&nbsp;
+
 <br><br>
 
 Design 
 
 <a href="https://www.figma.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.canva.com/">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="45" height="45" alt="Canva" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.adobe.com/products/photoshop.html">
