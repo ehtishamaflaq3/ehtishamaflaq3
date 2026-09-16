@@ -120,7 +120,7 @@ Programming Languages
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
-  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="45" height="45" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.java.com/">
@@ -142,6 +142,13 @@ Development
 <a href="https://github.com/">
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub" />
 </a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://swagger.io/">
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="45" height="45" alt="REST APIs" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.simpleicons.org/lightning/FFD43B"
+     width="45" height="45" alt="Lightning" />&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.postman.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
