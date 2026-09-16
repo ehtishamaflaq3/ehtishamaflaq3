@@ -1,9 +1,6 @@
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/882fe49c-5ace-4182-b84c-b7dab95e802f"
-    alt="Ehtisham Aflak Profile Banner"
-    width="100%"
-  />
+    <img width="1584" height="396" alt="Black and White Minimalist Professional LinkedIn Banner" src="https://github.com/user-attachments/assets/3f252bed-74b0-48e7-9f7b-b4c7b9015250" />
+
 </p>
 
 <h1 align="center">Hi , I'm Ehtisham Aflak</h1>
