@@ -84,7 +84,7 @@ Backend & Databases
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://expressjs.com/">
-  <img src="https://cdn.simpleicons.org/express/FFFFFF"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
        width="45" height="45" alt="Express.js" />
 </a>&nbsp;&nbsp;&nbsp;
 
