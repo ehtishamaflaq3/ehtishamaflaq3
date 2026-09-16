@@ -92,7 +92,7 @@ Backend & Databases
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/">
-  <img src="https://cdn.simpleicons.org/mysql/00758F" width="45" height="45" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mysql/22D3EE" width="45" height="45" alt="MySQL" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <br><br>
