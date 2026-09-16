@@ -92,8 +92,8 @@ Backend & Databases
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-</a>
+  <img src="https://cdn.simpleicons.org/mysql/00758F" width="45" height="45" alt="MySQL" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <br><br>
 
