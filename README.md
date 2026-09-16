@@ -75,6 +75,14 @@ Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
 </a>
 
+<a href="https://vite.dev/">
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="45" height="45" alt="Vite" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://redux.js.org/">
+  <img src="https://cdn.simpleicons.org/redux/764ABC" width="45" height="45" alt="Redux" />
+</a>&nbsp;&nbsp;&nbsp;
+
 <br><br>
 
 Backend & Databases
