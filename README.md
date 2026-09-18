@@ -64,10 +64,6 @@ Frontend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" alt="React.js" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://redux.js.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="45" height="45" alt="Redux" />
-</a>&nbsp;&nbsp;&nbsp;
-
 <a href="https://tailwindcss.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
 </a>
