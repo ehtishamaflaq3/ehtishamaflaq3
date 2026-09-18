@@ -207,7 +207,7 @@ Design
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" alt="Coding" height=350 width=400 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+
 
 <p align="center">
   <i>"Build with purpose. Learn with curiosity. Improve with every line of code."</i>
