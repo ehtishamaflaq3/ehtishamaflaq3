@@ -206,12 +206,7 @@ Design
 
 </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<p align="center">
-  <i>"Build with purpose. Learn with curiosity. Improve with every line of code."</i>
-</p>
+![]( https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <p align="center">
