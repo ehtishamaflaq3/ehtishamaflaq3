@@ -8,7 +8,7 @@
 <h3 align="center">Full-Stack Developer | MERN Stack Engineer | Software Engineer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehtishamaflaq3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ehtishamaflaq3&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
