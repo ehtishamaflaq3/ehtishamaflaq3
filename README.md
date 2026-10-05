@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ehtishamaflaq3&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
-
 <p align="center">
   <a href="mailto:ehtishamaflaq12341234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
